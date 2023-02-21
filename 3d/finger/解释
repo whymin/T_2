@@ -1,0 +1,7 @@
+test.mol和train.mol是最开始的
+计算出指纹 test_finger.csv和train_finger.csv
+合并得到后续模型训练用的指纹，并且重新进行了训练集和测试集的划分
+smiles.mol是第二次转换的，3d结构有些许变化
+all_finger.csv是第二次计算的
+
+训练用的是test+train。test在前，train在后

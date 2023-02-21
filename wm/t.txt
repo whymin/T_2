@@ -1,0 +1,170 @@
+WARNING: damped steplength 0.014008 to 0.00400904
+==============================
+*** Open Babel Warning  in CorrectStereoAtoms
+  Could not correct 1 stereocenter(s) in this molecule ()
+    with Atom Ids as follows: 14
+	WARNING: damped steplength 0.0113049 to 0.0107382
+	==============================
+	*** Open Babel Warning  in CorrectStereoAtoms
+	  Could not correct 2 stereocenter(s) in this molecule ()
+	    with Atom Ids as follows: 14 12
+		WARNING: damped steplength 0.494761 to 0.00612402
+		==============================
+		*** Open Babel Warning  in CorrectStereoAtoms
+		  Could not correct 1 stereocenter(s) in this molecule ()
+		    with Atom Ids as follows: 17
+			==============================
+			*** Open Babel Warning  in CorrectStereoAtoms
+			  Could not correct 3 stereocenter(s) in this molecule ()
+			    with Atom Ids as follows: 17 2 5
+				WARNING: damped steplength 0.00526386 to 0.00477813
+				WARNING: damped steplength 0.0105827 to 0.0034459
+				WARNING: damped steplength 0.00732117 to 0.00512761
+				==============================
+				*** Open Babel Warning  in CorrectStereoAtoms
+				  Could not correct 1 stereocenter(s) in this molecule ()
+				    with Atom Ids as follows: 11
+					WARNING: damped steplength 0.00392023 to 0.00346133
+					WARNING: damped steplength 0.0127857 to 0.00628488
+					WARNING: damped steplength 0.00980371 to 0.00464297
+					WARNING: damped steplength 0.00433336 to 0.00428662
+					WARNING: damped steplength 0.00501865 to 0.00473471
+					WARNING: damped steplength 0.00915179 to 0.00595719
+					==============================
+					*** Open Babel Warning  in CorrectStereoAtoms
+					  Could not correct 3 stereocenter(s) in this molecule ()
+					    with Atom Ids as follows: 36 54 42
+						==============================
+						*** Open Babel Warning  in CorrectStereoAtoms
+						  Could not correct 1 stereocenter(s) in this molecule ()
+						    with Atom Ids as follows: 4
+							==============================
+							*** Open Babel Warning  in ParseSmiles
+							  Ignoring stereochemistry. Not enough connections to this atom. 
+							  ==============================
+							  *** Open Babel Warning  in ParseSmiles
+							    Ignoring stereochemistry. Not enough connections to this atom. 
+								==============================
+								*** Open Babel Warning  in CorrectStereoAtoms
+								  Could not correct 1 stereocenter(s) in this molecule ()
+								    with Atom Ids as follows: 4
+									==============================
+									*** Open Babel Warning  in CorrectStereoAtoms
+									  Could not correct 1 stereocenter(s) in this molecule ()
+									    with Atom Ids as follows: 50
+										WARNING: damped steplength 4.21697e-07 to 4.03019e-07
+										WARNING: damped steplength 7.39623e-07 to 4.03019e-07
+										WARNING: damped steplength 0.522175 to 0.00844747
+										==============================
+										*** Open Babel Warning  in CorrectStereoAtoms
+										  Could not correct 3 stereocenter(s) in this molecule ()
+										    with Atom Ids as follows: 40 44 3
+											WARNING: damped steplength 5.10482e-08 to 3.34634e-08
+											WARNING: damped steplength 6.43421e-08 to 3.34634e-08
+											WARNING: damped steplength 6.43421e-08 to 3.34634e-08
+											WARNING: damped steplength 6.43421e-08 to 3.34634e-08
+											WARNING: damped steplength 1.27148e-07 to 6.94446e-08
+											WARNING: damped steplength 1.27457e-07 to 6.94446e-08
+											WARNING: damped steplength 1.27457e-07 to 6.94446e-08
+											WARNING: damped steplength 2.04801e-07 to 1.71294e-07
+											WARNING: damped steplength 2.31995e-07 to 1.71294e-07
+											WARNING: damped steplength 3.99275e-07 to 3.84836e-07
+											WARNING: damped steplength 4.41891e-07 to 3.84836e-07
+											WARNING: damped steplength 1.45027e-06 to 1.03786e-06
+											WARNING: damped steplength 1.46248e-06 to 1.03786e-06
+											WARNING: damped steplength 1.46248e-06 to 1.03786e-06
+											WARNING: damped steplength 0.00645148 to 0.00538013
+											==============================
+											*** Open Babel Warning  in CorrectStereoAtoms
+											  Could not correct 2 stereocenter(s) in this molecule ()
+											    with Atom Ids as follows: 13 11
+												==============================
+												*** Open Babel Warning  in ParseSmiles
+												  Ignoring stereochemistry. Not enough connections to this atom. 
+												  ==============================
+												  *** Open Babel Warning  in CorrectStereoAtoms
+												    Could not correct 3 stereocenter(s) in this molecule ()
+													  with Atom Ids as follows: 13 17 11
+													  ==============================
+													  *** Open Babel Warning  in CorrectStereoAtoms
+													    Could not correct 2 stereocenter(s) in this molecule ()
+														  with Atom Ids as follows: 16 6
+														  ==============================
+														  *** Open Babel Warning  in CorrectStereoAtoms
+														    Could not correct 2 stereocenter(s) in this molecule ()
+															  with Atom Ids as follows: 4 17
+															  ==============================
+															  *** Open Babel Warning  in CorrectStereoAtoms
+															    Could not correct 2 stereocenter(s) in this molecule ()
+																  with Atom Ids as follows: 14 11
+																  ==============================
+																  *** Open Babel Warning  in CorrectStereoAtoms
+																    Could not correct 2 stereocenter(s) in this molecule ()
+																	  with Atom Ids as follows: 16 12
+																	  ==============================
+																	  *** Open Babel Warning  in CorrectStereoAtoms
+																	    Could not correct 1 stereocenter(s) in this molecule ()
+																		  with Atom Ids as follows: 7
+																		  ==============================
+																		  *** Open Babel Warning  in CorrectStereoAtoms
+																		    Could not correct 2 stereocenter(s) in this molecule ()
+																			  with Atom Ids as follows: 5 8
+																			  ==============================
+																			  *** Open Babel Warning  in CorrectStereoAtoms
+																			    Could not correct 1 stereocenter(s) in this molecule ()
+																				  with Atom Ids as follows: 13
+																				  WARNING: damped steplength 1.64805e-07 to 1.17954e-07
+																				  WARNING: damped steplength 1.70758e-07 to 1.17954e-07
+																				  WARNING: damped steplength 0.00938456 to 0.00551768
+																				  ==============================
+																				  *** Open Babel Warning  in CorrectStereoAtoms
+																				    Could not correct 3 stereocenter(s) in this molecule ()
+																					  with Atom Ids as follows: 7 19 13
+																					  ==============================
+																					  *** Open Babel Warning  in CorrectStereoAtoms
+																					    Could not correct 2 stereocenter(s) in this molecule ()
+																						  with Atom Ids as follows: 4 17
+																						  WARNING: damped steplength 0.0146523 to 0.00929192
+																						  WARNING: damped steplength 2.90352e-07 to 2.42471e-07
+																						  WARNING: damped steplength 3.24368e-07 to 2.42471e-07
+																						  WARNING: damped steplength 3.24368e-07 to 2.42471e-07
+																						  ==============================
+																						  *** Open Babel Warning  in CorrectStereoAtoms
+																						    Could not correct 2 stereocenter(s) in this molecule ()
+																							  with Atom Ids as follows: 10 12
+																							  ==============================
+																							  *** Open Babel Warning  in CorrectStereoAtoms
+																							    Could not correct 1 stereocenter(s) in this molecule ()
+																								  with Atom Ids as follows: 56
+																								  ==============================
+																								  *** Open Babel Warning  in CorrectStereoAtoms
+																								    Could not correct 2 stereocenter(s) in this molecule ()
+																									  with Atom Ids as follows: 5 29
+																									  ==============================
+																									  *** Open Babel Warning  in CorrectStereoAtoms
+																									    Could not correct 2 stereocenter(s) in this molecule ()
+																										  with Atom Ids as follows: 2 24
+																										  ==============================
+																										  *** Open Babel Warning  in CorrectStereoAtoms
+																										    Could not correct 2 stereocenter(s) in this molecule ()
+																											  with Atom Ids as follows: 48 67
+																											  WARNING: damped steplength 2.17579e-07 to 1.54744e-07
+																											  WARNING: damped steplength 2.30877e-07 to 1.54744e-07
+																											  WARNING: damped steplength 2.30877e-07 to 1.54744e-07
+																											  ==============================
+																											  *** Open Babel Warning  in CorrectStereoAtoms
+																											    Could not correct 3 stereocenter(s) in this molecule ()
+																												  with Atom Ids as follows: 36 42 56
+																												  ==============================
+																												  *** Open Babel Warning  in CorrectStereoAtoms
+																												    Could not correct 3 stereocenter(s) in this molecule ()
+																													  with Atom Ids as follows: 6 25 15
+																													  WARNING: damped steplength 0.00506296 to 0.00422724
+																													  ==============================
+																													  *** Open Babel Warning  in ParseSmiles
+																													    Ignoring stereochemistry. Not enough connections to this atom. 
+																														==============================
+																														*** Open Babel Warning  in CorrectStereoAtoms
+																														  Could not correct 3 stereocenter(s) in this molecule ()
+																														    with Atom Ids as follows: 15 6 25
+
